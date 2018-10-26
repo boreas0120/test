@@ -25,6 +25,8 @@ article,aside,dialog,footer,header,section,footer,nav,figure,menu{display:block}
 
 input,textarea,select {-webkit-appearance:none;outline:none}
 
+.testBox { width:100%; overflow:hidden;}
+
 
 
 
